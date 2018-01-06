@@ -85,7 +85,7 @@
 		width: 45em;
 	}
 
-	
+
 
 	@media screen and (max-width: 1680px) {
 
@@ -2463,7 +2463,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
+		background: #666666;
 		color: #d1f1e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2483,15 +2483,15 @@
 			}
 
 		#header header p {
-			color: #b6e9dc;
+			color: #d7e2e0;
 		}
 
 		#header a {
-			color: #d1f1e9;
+			color: #d7e2e0;
 		}
 
 			#header a:hover {
-				color: #ffffff !important;
+				color: #cdc5bf!important;
 			}
 
 		#header > header {
@@ -2552,7 +2552,7 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb0;
+					border-top: solid 2px #f0f8ff;
 					display: block;
 					padding: 0;
 				}
